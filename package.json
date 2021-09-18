@@ -1,0 +1,14 @@
+{
+  "name": "unifil-contracts",
+  "version": "1.0.0",
+  "description": "Contracts of UniFil-DAO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev@unifil",
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  }
+}
